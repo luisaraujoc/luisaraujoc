@@ -1,5 +1,10 @@
 ## Oie, eu sou o Luís. 👋
-
+<!-- minify -->
+<link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
+<!-- latest -->
+<link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
+<!-- core style only -->
+<link href="https://unpkg.com/nes.css/css/nes-core.min.css" rel="stylesheet" />
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
