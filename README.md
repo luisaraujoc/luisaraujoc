@@ -21,7 +21,7 @@
 
 <div align="center" style="margin-top: 20px;justify-content:space-between;">
 
- <a href = "mailto:luislk_@outlook.com"><img src="./outlook.svg" target="_blank" style="max-width: 40px;"></a> 
+ <a href = "mailto:luislk_@outlook.com"><img src="./outlook.svg" target="_blank" style="max-width: 40px; border: 2px solid #fff"></a> 
   
   
   ![Snake animation](https://github.com/luisaraujoc/luisaraujoc/blob/output/github-contribution-grid-snake.svg)
