@@ -1,7 +1,8 @@
 ## Luís Henrique. 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=luisaraujoc&theme=dracula&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<div align="center">
+ [![GitHub Streak](https://streak-stats.demolab.com?user=luisaraujoc&theme=dracula&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div>
 <br/>
 
 #### Tenho 19 anos e atualmente sou estudante no IFBA Campus Eunápolis, pretendo seguir na area de desenvolvimento e irei postar aqui alguns de meus projetos pessoais e também alguns trabalhos de escola. Tudo que for código vai vir parar aqui tanto por backup, quando por se tornar postfólio também.
