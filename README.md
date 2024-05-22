@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Olá, eu sou o Luís, sou desenvolvedor de software e estudante de Analise e Desevolvimento de Sistemas. Atualmente estou focado em desenvolvimento web, principalmente com React e Node.js. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Seja bem-vindo ao meu perfil! 
 
-## Getting Started
+Segue o link para os meu portfólio: [em construção](#)
 
-First, run the development server:
+## Tecnologias usadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [Node.js](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ShadcnUI](https://ui.shadcn.com/)
+- [React Hook Form](https://react-hook-form.com/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Qual intuito do projeto do portfólio?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Além de mostrar os meus projetos e falar um pouco mais sobre minha habilidades, objetivos e experiências, o projeto do portfólio tem como objetivo principal ser um projeto onde eu possa aplicar e testar novos conhecimentos e tecnologias. A intenção é que, pronto, eu gerêncie ele com um CMS criado por mim mesmo, utilizando Node.js e React.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Posteriormente detalharei como que pretendo hospedar ele em um servidor próprio, feito com Node.js e Express e com a infraestrutura gerenciada básica dentro da minha casa mesmo. Como o plano é que apenas eu mande requisições de atualização para ele, não existe a necessidade de um servidor mais robusto. E para os casos em que alguém entrar em contato, a lógica pode ser mantida para fazer redirecionamento de mensagens para o meu email pessoal com uso de outras tecnologias que ainda vão ser estudadas.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Esse é a introdução básica, e espero que gostem do que vão ver por aqui.
